@@ -11,6 +11,7 @@ import org.apache.commons.logging.impl.SimpleLog;
  */
 public class BasicExample {
 	// commit test
+	//hujahujahujahujahuja
 	public static void main(String[] args) {
 
 		// set to debug level
